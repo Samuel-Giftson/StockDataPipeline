@@ -14,7 +14,6 @@ An automated stock data gathering pipeline that fetches hourly stock market data
 All of this runs **entirely in the cloud** on GitHub’s infrastructure.
 
 ---
----
 
 ## ⚠️ Disclaimer
 
