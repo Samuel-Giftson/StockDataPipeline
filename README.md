@@ -70,7 +70,7 @@ If you want to run the pipeline manually on your machine:
 
 # Clone the repo
 git clone https://github.com/YOUR_USERNAME/StockDataPipeline.git
-cd StockDataGatherAuto
+
 
 # Install dependencies
 pip install -r requirements.txt
