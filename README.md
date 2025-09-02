@@ -4,7 +4,7 @@ An automated stock data gathering pipeline that fetches hourly stock market data
 
 ## 📜 About
 
-**StockDataGatherAuto** is designed to:
+**StockDataGatherPipeline** is designed to:
 - Automatically fetch stock ticker information from the [Webull API](https://www.webull.com/) using a custom Python data-fetcher.
 - Run **hourly from 9:30 AM to 3:30 PM ET** (U.S. market hours), plus one final run at **4:00 PM ET**.
 - Append new data rows to a central CSV file (`stock_data.csv`) for easy tracking.
