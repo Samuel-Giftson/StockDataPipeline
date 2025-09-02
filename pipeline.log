@@ -311,3 +311,8 @@
 2025-09-02 14:42:45.888 | INFO     | __main__:main:10 - Starting stock fetch job...
 2025-09-02 14:42:46.543 | INFO     | __main__:main:16 - Data fetch successful.
 2025-09-02 14:42:46.544 | INFO     | __main__:main:25 - Data appended to CSV successfully.
+2025-09-02 17:08:21 | INFO | Current ET time: 2025-09-02 13:08:21
+2025-09-02 17:08:21 | INFO | Starting stock fetch job...
+2025-09-02 17:08:22 | INFO | Data fetch successful.
+2025-09-02 17:08:22 | INFO | CSV file created with headers.
+2025-09-02 17:08:22 | INFO | Data appended to CSV successfully.
