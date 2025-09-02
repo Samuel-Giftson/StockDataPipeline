@@ -14,7 +14,15 @@ An automated stock data gathering pipeline that fetches hourly stock market data
 All of this runs **entirely in the cloud** on GitHub’s infrastructure.
 
 ---
+---
 
+## ⚠️ Disclaimer
+
+This repo demonstrates use of the **unofficial Webull API** for educational purposes.  
+It does **not redistribute market data**.  
+Users must provide their own Webull access and comply with Webull’s Terms of Service.
+
+---
 ## ⚙️ How It Works
 
 ### 1. **Data Gathering**
