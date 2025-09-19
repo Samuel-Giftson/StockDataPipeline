@@ -724,3 +724,7 @@
 2025-09-19 14:41:01 | INFO | Starting stock fetch job...
 2025-09-19 14:41:02 | INFO | Data fetch successful.
 2025-09-19 14:41:02 | INFO | Data appended to CSV successfully.
+2025-09-19 15:38:41 | INFO | Current ET time: 2025-09-19 11:38:41
+2025-09-19 15:38:41 | INFO | Starting stock fetch job...
+2025-09-19 15:38:42 | INFO | Data fetch successful.
+2025-09-19 15:38:42 | INFO | Data appended to CSV successfully.
