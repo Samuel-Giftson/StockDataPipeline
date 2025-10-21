@@ -1415,3 +1415,7 @@
 2025-10-21 13:50:00 | INFO | Current ET time: 2025-10-21 09:50:00
 2025-10-21 13:50:00 | INFO | Starting stock fetch job...
 2025-10-21 13:50:18 | ERROR | Data fetch failed. No data written to CSV.
+2025-10-21 14:41:02 | INFO | Current ET time: 2025-10-21 10:41:02
+2025-10-21 14:41:02 | INFO | Starting stock fetch job...
+2025-10-21 14:41:03 | INFO | Data fetch successful.
+2025-10-21 14:41:03 | INFO | Data appended to CSV successfully.
