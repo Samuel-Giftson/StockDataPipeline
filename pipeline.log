@@ -2843,3 +2843,7 @@
 2025-12-22 18:52:22 | INFO | Starting stock fetch job...
 2025-12-22 18:52:23 | INFO | Data fetch successful.
 2025-12-22 18:52:23 | INFO | Data appended to CSV successfully.
+2025-12-22 19:37:25 | INFO | Current ET time: 2025-12-22 14:37:25
+2025-12-22 19:37:25 | INFO | Starting stock fetch job...
+2025-12-22 19:37:26 | INFO | Data fetch successful.
+2025-12-22 19:37:26 | INFO | Data appended to CSV successfully.
