@@ -1,8 +1,8 @@
-# 📈 StockDataPipeline
+#  StockDataPipeline
 
 An automated stock data gathering pipeline that fetches hourly stock market data for specified tickers during market hours, stores it in a CSV, and commits both the data and logs back to this repository — all powered by GitHub Actions.
 
-## 📜 About
+## About
 
 **StockDataPipeline** is designed to:
 - Automatically fetch stock ticker information from the [Webull API](https://www.webull.com/) using a custom Python data-fetcher.
@@ -22,7 +22,7 @@ It does **not redistribute market data**.
 Users must provide their own Webull access and comply with Webull’s Terms of Service.
 
 ---
-## ⚙️ How It Works
+##  How It Works
 
 ### 1. **Data Gathering**
 - Implemented in [`GetMeData.py`](GetMeData.py).
@@ -51,7 +51,7 @@ Users must provide their own Webull access and comply with Webull’s Terms of S
 
 ---
 
-## 🕒 Schedule
+##  Schedule
 
 The workflow runs automatically at:
 - **9:30 AM ET**
@@ -70,7 +70,7 @@ Only Monday–Friday, excluding market holidays.
 
 
 
-## 🚀 Running Locally
+##  Running Locally
 
 If you want to run the pipeline manually on your machine:
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 # Run the script
 python main.py
 
-🧹 Clearing Test Data
+ Clearing Test Data
 
 If you run manual tests and want to start with a fresh CSV before market hours:
 
@@ -95,7 +95,7 @@ CSVHandler("stock_data.csv").wipe_all_rows()
 
 Commit & push the updated CSV to main so the next automated run starts clean.
 
-📝 License
+ License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
