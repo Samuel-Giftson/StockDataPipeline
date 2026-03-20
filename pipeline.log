@@ -4707,3 +4707,7 @@
 2026-03-20 15:08:44 | INFO | Starting stock fetch job...
 2026-03-20 15:08:45 | INFO | Data fetch successful.
 2026-03-20 15:08:45 | INFO | Data appended to CSV successfully.
+2026-03-20 16:03:03 | INFO | Current ET time: 2026-03-20 12:03:03
+2026-03-20 16:03:03 | INFO | Starting stock fetch job...
+2026-03-20 16:03:04 | INFO | Data fetch successful.
+2026-03-20 16:03:04 | INFO | Data appended to CSV successfully.
